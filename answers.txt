@@ -1,0 +1,8 @@
+
+ " first answer"
+ " second answer :) "
+ " saiawe dwyd awdhope pride pride good social group bad abd professors "
+ " this is a short sample text without emotions"
+ " this is a long sample text without emotions. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin quis mauris neque. Morbi vitae ultrices ante. Aliquam hendrerit dolor ac velit congue, eu rhoncus justo finibus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aliquam sodales orci vel lorem efficitur consectetur."
+ " this is a medium sample text with one emotion: gratitude. This is extra blabla for it to be bigger."
+ " this is a medium sample text with various emotions: gratitude, worry, jealousy and sadness. All aggregated into the same answer"

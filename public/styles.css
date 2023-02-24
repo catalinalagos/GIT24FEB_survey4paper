@@ -1,0 +1,86 @@
+body {
+    padding: 0;
+    max-width: 400px;
+    margin: auto;
+    text-align: center;
+    background-color: #393939;
+}
+
+.title {
+    margin-top: 50px;
+    margin-left: 12px;
+    padding-left: 12%;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+    line-height: 1.4em;
+    font-size: 28px;
+    color: #fdfdfd;
+    text-align: left;
+}
+.title2 {
+    margin-top: 50px;
+    margin-left: 12px;
+    margin-right: 12px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+    line-height: 1.4em;
+    font-size: 28px;
+    color: #fdfdfd;
+    text-align: left;
+}
+.subtitle {
+    margin-top: 10px;
+    margin-left: 12px;
+    margin-right: 12px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+    line-height: 1.4em;
+    font-size: 18px;
+    color: #fdfdfd;
+    text-align: left;
+}
+
+.all {
+    text-align: center;
+    margin-top: 20px;
+    margin-left: 12px;
+    margin-right: 12px;
+    display: flex;
+    flex-direction: column;
+    padding-left: 12%;
+    padding-right: 12%;
+}
+.consent{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    text-align: left;
+    font-family: 'Poppins', sans-serif;
+    font-size: 21px;
+    color: #ffffff;
+}
+textarea {
+    border: 2px solid #ccc;
+    border-radius: 6px;
+    background-color: #f8f8f8;
+    font-size: 16px;
+    resize: none;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.button {
+    border: none;
+    color: white;
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 6px;
+    font-size: 18px;
+    margin-top: 10px;
+    
+}
+
+.button1 {
+    background-color: #000000;
+}
